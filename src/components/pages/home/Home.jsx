@@ -8,7 +8,7 @@ import Footer from "../../partials/Footer";
 const Home = () => {
   return (
     <>
-      <div className="font-sans bg-gray-50">
+      <div id="home" className="font-sans bg-gray-50">
         <Navigation />
         <Hero />
         <Store />
